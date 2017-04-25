@@ -21,5 +21,5 @@ code.
 The katas have been designed with a specific order in mind and build upon each
 other. But, you are welcome to start anywhere.
 
-* [Learn Vagrant](greenfishbluefish/kata-vagrant-linux)
-* [Learn Chef](greenfishbluefish/kata-vagrant-chef)
+* [Learn Vagrant](https://github.com/greenfishbluefish/kata-vagrant-linux)
+* [Learn Chef](https://github.com/greenfishbluefish/kata-vagrant-chef)
