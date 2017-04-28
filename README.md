@@ -18,11 +18,34 @@ code.
 
 # The Katas
 
-The katas have been designed with a specific order in mind and build upon each
-other. But, you are welcome to start anywhere.
+Some of the katas have been designed with a specific order in mind and build
+upon each other. Where they do so, they will reference the appropriate katas. In
+all cases, you are welcome to start anywhere.
+
+The ones without a link are planned. If you don't see one you'd like to have,
+please open an issue.
+
+## Learn a new tool
 
 * [Learn Vagrant](https://github.com/greenfishbluefish/kata-vagrant-linux)
 * [Learn Chef](https://github.com/greenfishbluefish/kata-vagrant-chef)
+* Learn Puppet
+* Learn Ansible
+* Learn Salt
+* Learn Packaging
+* Learn Packer
+* Learn Terraform
+
+## Advanced Vagrant Usage
+
+* Multiple Machines
+* Windows
+
+## Specific Services
+
+* Build and manage Jenkins2
+* Build and manage Kubernetes
+* Build and manage ELK
 
 ## How to use the Katas
 
