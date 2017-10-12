@@ -33,7 +33,7 @@ please open an issue.
 * Learn Ansible
 * Learn Salt
 * Learn Packaging
-* Learn Packer
+* [Learn Packer] (https://github.com/greenfishbluefish/kata-vagrant-packer)
 * Learn Terraform
 
 ## Advanced Vagrant Usage
